@@ -1,0 +1,200 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+body{
+    padding-top: 10px;
+    
+}
+.Navbar{
+    position: absolute;
+    width: 1346px;
+    height: 80px;
+    background: #8800ff73
+    
+
+}
+.Navbar:hover{
+    position: absolute;
+    width: 1346px;
+    height: 80px;
+    background: #8800ffc4
+    
+}
+a{
+    font-family: Arial;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    margin: 0 30px;
+    transition: 0.4s;
+    box-sizing: border-box;
+}
+.Navbar2{
+    position: absolute;
+    top: 25px;
+    left: 850px;
+
+}
+.Logodiv{
+    font-size: 30px;
+    font-weight: 900;
+    font-family: Arial;
+    position: absolute;
+    top: 15px;
+    left: 50px;
+    color: white;
+}
+span{
+    margin-right: 2px;
+}
+.Navbar2 a:hover{
+    font-size:25px;
+    border-style: solid;
+    border-top: white;
+    border-left: white;
+    border-right: white;
+    border-radius: 0px;
+}
+.div1{
+    width: 300px;
+    height: 300px;
+    background-color: #8800ff73;
+    border-radius: none;
+    margin: 20px;
+    border-radius: 40px;
+    padding-top: 9px;
+    overflow: hidden;
+    transition: 1s;
+    position: relative;
+
+}
+.divInformations{
+    display: flex;
+    position: relative;
+    min-width: 1000 px;
+    top: 100px;
+    margin: 10px;
+}
+.div2{
+    width: 250px;
+    height: 250px;
+    background-image: url('../img/random.jfif');
+    background-repeat: no-repeat;
+    background-size: 300px 250px;
+    margin: 20px;
+    border-radius: 40px;
+
+}
+.div1:hover{
+    width: 550px;
+    background: #8800ffc4;
+}
+.a{
+    font-size: 20px;
+    position: absolute;
+    bottom: 250px;
+    left: 300px;
+}
+.b{
+    font-size: 20px;
+    position: absolute;
+    bottom: 210px;
+    left: 300px; 
+}
+.c{
+    font-size: 20px;
+    position: absolute;
+    bottom: 170px;
+    left: 300px; 
+}
+.d{
+    font-size: 20px;
+    position: absolute;
+    bottom: 130px;
+    left: 300px; 
+}
+.e{
+    font-size: 20px;
+    position: absolute;
+    bottom: 90px;
+    left: 300px; 
+}
+.f{
+    font-size: 20px;
+    position: absolute;
+    bottom: 50px;
+    left: 300px; 
+}
+.end{
+    width: 200px;
+    height: 300px;
+    position: relative;
+    position: absolute;
+    left: 1125px;
+    top: 20px;
+    background: #8800ff73;
+    border-radius: 40px;
+    transition: 1s;
+    overflow: hidden;
+}
+.end:hover{
+    width: 270px;
+    height: 300px;
+    position: absolute;
+    left: 1030px;
+    top: 20px;
+    background: #8800ffc4;
+    border-radius: 40px;
+}
+.end1{
+    position: absolute;
+    top: 30px;
+    left: 28px;
+    color: white;
+    font-family: Arial;
+    font-weight: 700;
+}
+.reklam {
+    color: #8800ff73;
+    
+}
+.end2{
+    width: 160px;
+    height: 200px;
+    background: white;
+    border-radius: 40px;
+    position: absolute;
+    
+    
+}
+.end2:hover{
+    width: 220px;
+    height: 200px;
+    background: white;
+    border-radius: 40px;
+    left: 1px;
+    
+}
+.endd{
+    width: 200px;
+    height: 300px;
+    position: relative;
+    position: absolute;
+    left: 1125px;
+    top: 380px;
+    background: #8800ff73;
+    border-radius: 40px;
+    transition: 1s;
+    overflow: hidden;
+}
+.endd:hover{
+    width: 270px;
+    height: 300px;
+    position: absolute;
+    left: 1030px;
+    top: 20px;
+    background: #8800ffc4;
+    border-radius: 40px;
+}
